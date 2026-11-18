@@ -1,0 +1,6 @@
+{
+  "name": "FynLegacy",
+  "description": "Offline-first Ethiopian multilingual Android keyboard (Amharic, Tigrigna, Afaan Oromo, English) honoring Yohannes Ejigu's FynGeez legacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
